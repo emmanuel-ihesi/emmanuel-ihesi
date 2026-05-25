@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto: ihesi0001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail"/></a>
-  <a href="https://linkedin.com/in/emmanuel-ihesi-8a99b9406"><img src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Ihesi-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://linkedin.com/in/emmanuel-ihesi-8a99b9406"><img src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Ihesi-blue?style=flat-square&logo=linkedin"/></a><a href="https://emmanuel-ihesi-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-purple?style=flat-square&logo=netlify"/></a>
   <img src="https://img.shields.io/badge/Location-Nigeria-green?style=flat-square"/>
 </p>
 
