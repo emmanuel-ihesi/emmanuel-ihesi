@@ -40,12 +40,11 @@ RLHF-certified AI Evaluation Specialist with 3+ years of experience auditing LLM
 
 | Repository | Description |
 |---|---|
-| [llm-evaluation-case-studies](#) | Real LLM response comparisons, rankings & hallucination analysis |
-| [multilingual-ai-evaluation](#) | AI output analysis across English, Igbo & Nigerian Pidgin |
-| [prompt-failure-analysis](#) | Documented prompt failures, ambiguity breakdowns & instruction collapse |
-| [ai-safety-observations](#) | Hallucination logs, unsafe output patterns & prompt injection examples |
-| [evaluator-training-notes](#) | RLHF frameworks, rubric structures & evaluation methodology |
-
+| [llm-evaluation-case-studies](https://github.com/emmanuel-ihesi/llm-evaluation-case-studies) | Real LLM response comparisons, rankings & hallucination analysis |
+| [multilingual-ai-evaluation](https://github.com/emmanuel-ihesi/multilingual-ai-evaluation) | AI output analysis across English, Igbo & Nigerian Pidgin |
+| [prompt-failure-analysis](https://github.com/emmanuel-ihesi/prompt-failure-analysis) | Documented prompt failures, ambiguity breakdowns & instruction collapse |
+| [ai-safety-observations](https://github.com/emmanuel-ihesi/ai-safety-observations) | Hallucination logs, unsafe output patterns & prompt injection examples |
+| [evaluator-training-notes](https://github.com/emmanuel-ihesi/evaluator-training-notes) | RLHF frameworks, rubric structures & evaluation methodology |
 ---
 
 ## 🏆 Certifications
